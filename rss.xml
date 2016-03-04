@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cama]]></title>
         <description><![CDATA[Cama]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cama/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 03:33:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 03:42:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cama/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Joe Pov</p>]]></description>
-            <link>undefined543ae63e-1dd0-479c-933c-3d55edf8df41/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21bd3408-5c8c-4728-af0b-56d3e0459360.gif">]]></description>
+            <link>https://thegrid.ai/cama/543ae63e-1dd0-479c-933c-3d55edf8df41/index.html</link>
             <guid isPermaLink="false">543ae63e-1dd0-479c-933c-3d55edf8df41</guid>
-            <pubDate>Fri, 04 Mar 2016 03:33:43 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 03:41:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
