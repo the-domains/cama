@@ -1,4 +1,4 @@
-name: Cama
+name: Jack.io
 favicon: null
 layout_spectrum: 0.5487470154184848
 typography_spectrum: 0.09187512961216271
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.951426551444456
-  lightness: 0.25046172947622836
+  brandStrength: 0.75
+  lightness: 0.5
   saturation: 0.8800009430851787
-  rhythmicContrast: 0.12023885711096227
+  rhythmicContrast: 0.5
 purpose: []
